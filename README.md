@@ -1,22 +1,19 @@
-# 👋🏾 Hi, I'm Emir Taylor (iammirvcle)
+# Welcome to Mirvcle — Tech with Purpose
 
-Cybersecurity, IAM, and Cloud Operations professional focused on building secure, scalable IT solutions rooted in real-world impact.
+This repository houses official Mirvcle projects, tools, and solutions developed to bridge the digital divide, provide smart tech support, and build sustainable cloud infrastructure.
 
-🛡️ **Core Expertise**  
-- Identity & Access Management (Azure AD, CyberArk, Okta)  
-- Cloud Infrastructure & Automation (Azure, AWS, Terraform)  
-- Endpoint Security & Remote Monitoring (Intune, SentinelOne, PowerShell)  
+## What You’ll Find Here
 
-📂 **Featured Labs & Projects**  
-- 🔐 [Azure AD Role Automation](https://github.com/iammirvcle/azure-ad-role-automation)  
-- 🧰 [IAM Policy Enforcement Lab](https://github.com/iammirvcle/iam-policy-enforcement-lab)  
-- 💻 [Mirvcle Cloud Infra-as-Code](https://github.com/iammirvcle/mirvcle-cloud-infra-prod)  
-- 📊 [Threat Monitoring Dashboard (Splunk + SentinelOne)](https://github.com/iammirvcle/mirvcle-threat-monitoring-dashboard)  
-- 🤖 [Mirvcle Ticketing Automation](https://github.com/iammirvcle/mirvcle-ticketing-automation)  
+- Internal infrastructure automation  
+- On-demand support service tools  
+- Proprietary cloud apps & microservices  
+- Documentation for Mirvcle’s tech ecosystem  
 
-🎯 **Currently Learning**  
-- AWS Solutions Architect Associate  
-- Microsoft AZ-104 Azure Administrator  
-- CyberArk Privileged Access Management  
+## Collaboration & Contributions
 
-🚀 Building purposeful tech @ [Mirvcle](https://mirvcle.tech)  
+Mirvcle is actively growing!  
+If you're interested in collaborating or learning more, visit [mirvcle.tech](https://mirvcle.tech) or reach out on [LinkedIn](https://linkedin.com/in/emirtaylor).
+
+---
+
+🚀 Together, we build smarter tech for real-world impact.
