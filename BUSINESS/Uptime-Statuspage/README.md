@@ -56,3 +56,5 @@
              git commit -m "update uptime" || echo "no changes"
              git push
 
+3. Enable Pages: Settings → Pages → Branch = main → /site.
+4. Badges: Add shields or simple text showing last status (optional JS reads the JSON).
