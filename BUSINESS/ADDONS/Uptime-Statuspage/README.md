@@ -58,3 +58,18 @@
 
 3. Enable Pages: Settings → Pages → Branch = main → /site.
 4. Badges: Add shields or simple text showing last status (optional JS reads the JSON).
+
+Outputs / Deliverables
+site/index.html (status page)
+output/uptime-history.json (rolling results)
+screenshots/pages-enabled.png, screenshots/checks-passing.png
+
+Evidence (Screenshots)
+GitHub Pages live site
+Actions run log showing checks for each endpoint
+
+Notes
+Keep endpoints lightweight (HTTP GET). For auth’d checks, add synthetic token/ping endpoints.
+
+Outcome (example)
+Published a status page in under an hour; automated 5-minute checks and a rolling uptime history for two critical services.
